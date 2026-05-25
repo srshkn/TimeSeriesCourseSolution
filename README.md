@@ -7,7 +7,7 @@
 - [Задача №4](#задача-4)
 
 Дополнение
-- [Условия итового задания](https://github.com/MVRonkin/TimeSeriesCourse/blob/main/Last/README.md)
+- [Условия итогового задания](https://github.com/MVRonkin/TimeSeriesCourse/blob/main/Last/README.md)
 
 ## Задача №1
 [Результат решения](./task1.ipynb)
