@@ -1,40 +1,50 @@
 # TimeSeriesCourseSolution
 
+Решение итогового задания по курсу **Анализа временных рядов**.
+
 ## Содержание
 
-- [Dataset](#dataset)
+- [Датасет](#датасет)
 - [Решение](#решение)
   - [Задача №1](#задача-1)
   - [Задача №2](#задача-2)
   - [Задача №3](#задача-3)
   - [Задача №4](#задача-4)
+- [Условия итогового задания](#условия-итогового-задания)
 
-Дополнение
-- [Условия итогового задания](https://github.com/MVRonkin/TimeSeriesCourse/blob/main/Last/README.md)
+## Датасет
 
+Для выполнения итогового задания использовался датасет [time_series_60min_singleindex.csv](https://data.open-power-system-data.org/time_series/2020-10-06/time_series_60min_singleindex.csv) из проекта [Open Power System Data](https://open-power-system-data.org/), раздел **Time Series**.
 
-## Dataset
-Для рещения итогово задания был взять dataset [time_series_60min_singleindex.csv](https://data.open-power-system-data.org/time_series/2020-10-06/time_series_60min_singleindex.csv) c "[Open Power System Data](https://open-power-system-data.org/)" из раздела "[
-Time series](https://data.open-power-system-data.org/time_series/2020-10-06)".
+В качестве объекта исследования в датасете была выбрана **Франция** (FR).
 
 ## Решение
 
 ### Задача №1
-[Результат решения](./task1.ipynb)
+
+- Ноутбук: [task1.ipynb](./task1.ipynb)
 
 ...
 
 ### Задача №2
-[Результат решения](./task2.ipynb)
+
+- Ноутбук: [task2.ipynb](./task2.ipynb)
 
 ...
 
 ### Задача №3
-[Результат решения](./task3.ipynb)
+
+- Ноутбук: [task3.ipynb](./task3.ipynb)
 
 ...
 
 ### Задача №4
-[Результат решения](./task4.ipynb)
+
+- Ноутбук: [task4.ipynb](./task4.ipynb)
 
 ...
+
+## Условия итогового задания
+
+Оригинальное описание итогового задания доступно по ссылке: 
+- [cсылка на репозиторий с итоговым заданием](https://github.com/MVRonkin/TimeSeriesCourse/blob/main/Last/README.md)
