@@ -1,0 +1,7 @@
+,Model_A,Model_B,DM_Statistic,p_value,Significant,Better_Model
+0,AutoARIMA,AutoETS,-6.024,0.0,Да,AutoARIMA
+1,AutoARIMA,SeasonalNaive,2.908,0.0036,Да,SeasonalNaive
+2,AutoARIMA,LightGBM,-3.56,0.0004,Да,AutoARIMA
+3,AutoETS,SeasonalNaive,3.279,0.001,Да,SeasonalNaive
+4,AutoETS,LightGBM,-3.048,0.0023,Да,AutoETS
+5,SeasonalNaive,LightGBM,-8.744,0.0,Да,SeasonalNaive
